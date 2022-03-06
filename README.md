@@ -3,3 +3,4 @@
 * react navigation
 * fonts
 * AppLoading
+* Redux (redux react-redux)
