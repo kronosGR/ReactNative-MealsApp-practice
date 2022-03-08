@@ -23,6 +23,7 @@ const CategoriesScreen = (props) => {
       />
     );
   };
+
   return (
     <FlatList
       keyExtractor={(item, index) => item.id}
